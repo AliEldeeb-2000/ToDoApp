@@ -1,0 +1,77 @@
+name: todoapp
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  get_storage: any
+  get: any
+  flutter_local_notifications: ^9.3.2
+  flutter_native_timezone: any
+  intl: any
+  google_fonts: any
+  date_picker_timeline: any
+  sqflite: any
+  flutter_staggered_animations: any
+  flutter_svg: any
+  rxdart: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_launcher_icons: any
+  flutter_lints: ^2.0.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "images/appicon.jpeg"
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
